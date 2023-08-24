@@ -1,5 +1,12 @@
 
 ### Olá! Eu sou o Heitor Soares 🙂👋
+
+Apaixonado por tecnologia, estou sempre em busca de aprender e crescer como desenvolvedor.
+Minha Área de Interesse: Aplicações em soluções mobile e Segurança de Rede.
+Vamos nos conectar!
+Estou sempre em busca de novas oportunidades e colaborações. 
+Vamos DESENVOLVER coisas incríveis juntos!
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitorcsoares/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pignus.ti/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
